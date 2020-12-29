@@ -309,6 +309,8 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+
+
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
@@ -331,6 +333,8 @@ section {
 }
 
 .about .content p:last-child {
+  padding: 0 !important;
+  margin-right: 0 !important;
   margin-bottom: 0;
 }
 
